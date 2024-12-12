@@ -27,9 +27,9 @@ ___
 
 ## Links
 <!-- links -->
-[This is a link](inserlink.com)
+[This is a link](google.com)
 
-[This is a link with tooltip](inserlink.com "tooltip")
+[This is a link with tooltip](google.com "tooltip")
 
 ## Lists
 
@@ -45,12 +45,6 @@ ___
 ## Inline code block
 <!-- inline code block -->
 `<p></p>`
-
-## Images
-<!--Images-->
-
-![Hollow Knight](picture.jpeg)
-
 
 <!-- github md -->
 
