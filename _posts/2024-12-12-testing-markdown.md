@@ -27,9 +27,9 @@ ___
 
 ## Links
 <!-- links -->
-[This is a link](google.com)
+[This is a link](https://www.google.com/)
 
-[This is a link with tooltip](google.com "tooltip")
+[This is a link with tooltip](https://www.google.com/ "tooltip")
 
 ## Lists
 
